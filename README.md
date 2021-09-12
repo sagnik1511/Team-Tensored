@@ -4,7 +4,7 @@
 We implemented Convolutional Neural Networks (CNNs) to identify the presence of Hindi characters in the dataset provided.  
 Our model achieved a test accuracy of `84 %`    
 </br>
-Link to the saved model weights - [Click Here](https://drive.google.com/file/d/1u7L7Ty9Ec0Ak0OlHTfPz1vRKFSLrL1S0/view?usp=sharing)
+Link to the saved model weights - [Click Here](https://drive.google.com/file/d/1-2S8nLJHEfHt6VT-wV2Uex-CvR8KX-So/view?usp=sharing)
 
 ## Team Members
 * Sagnik Roy
