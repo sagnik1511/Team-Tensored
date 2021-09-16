@@ -2,9 +2,9 @@
 ### <p align = "center"> Submission for India Academia Connect AI Hackathon  </p>
 
 We implemented Convolutional Neural Networks (CNNs) to identify the presence of Hindi characters in the dataset provided.  
-Our model achieved a test accuracy of `84 %`    
+Our model achieved a test accuracy of `~89 %`    
 </br>
-Link to the saved model weights - [Click Here](https://drive.google.com/file/d/1-2S8nLJHEfHt6VT-wV2Uex-CvR8KX-So/view?usp=sharing)
+
 
 ## Team Members
 * Sagnik Roy
